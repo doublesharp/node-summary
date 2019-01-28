@@ -14,15 +14,15 @@
     "algorithm"
   ],
   "dependencies": {
-    "cheerio": "^0.22.0",
-    "html-to-text": "^3.2.0",
-    "lodash": "^4.17.4",
-    "request": "^2.81.0",
-    "sbd": "^1.0.12"
+    "cheerio": "^1.0.0-rc.2",
+    "html-to-text": "^4.0.0",
+    "lodash": "^4.17.11",
+    "request": "^2.88.0",
+    "sbd": "^1.0.14"
   },
   "devDependencies": {
-    "mocha": "^3.2.0",
-    "should": "^11.2.1"
+    "mocha": "^5.2.0",
+    "should": "^13.2.3"
   },
   "author": "James Brooks <jbrooksuk@me.com>",
   "readmeFilename": "README.md"
